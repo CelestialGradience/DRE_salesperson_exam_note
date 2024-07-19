@@ -1,6 +1,6 @@
 ## 加州地产经济考前突击小笔记
 
-1.BOOT = EXCHANGE
+1. BOOT = EXCHANGE
 2. A Quiet title action = an action by a court to remove a cloud or claim that has been placed on title to property
 3. Open-End Clause is a provision in mortgage contract that declares the mortgaged real estate may be used as security to borrow additional money
 4. estate = a possessory right to ownership interest in real estate
@@ -24,9 +24,9 @@
 21. Alienation = due-on-sale clause 在支付完所有贷款前把房子转让给儿子了，直接触发该技能
 22. impounds=reserves储备金
 23. Conversion
-24.Escrow?
+24. Escrow?
 25. Capitalization rate = mkt val/ its net income
-26.政府留置权高于私人留置权
+26. 政府留置权高于私人留置权
 27. Condition vs covenant
 28. Attorney-in-fact受委托人= a legally competent person who has been given the power of attorney by another competent person
 29. 禁止邻居烧垃圾，禁令=an injunction
@@ -52,7 +52,7 @@
 49. CC&R==condo
 50. 农夫收的稻草是chattel=personal property
 51. Joint Tenancy特点survivorship(必考)
-52.农业土地51年
+52. 农业土地51年
 53. Title transfer最不想得到什么（有一个选项是lien,一个是quitclaim deed）
 54. Zoning code是谁负责
 55. Buyer和seller在escrow close之前纠纷不应该找谁处理
@@ -86,3 +86,5 @@
 83. Purpose of secondary market = provide liquidity funds for the primary mkt
 84. Like kind = swapping one investment property for another investment property
 85. 1 mile = 5280feet
+    
+*(Copyright of 5咩咩)
