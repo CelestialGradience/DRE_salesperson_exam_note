@@ -8,5 +8,8 @@
 复习主要分为两个部分：
 1. 听油管视频
 2. prepagent刷题
+
+考前突击小笔记请见<房产考试笔记.pdf>和exam_note.md
+-如果下载有问题的话，请见[Google doc](https://drive.google.com/file/d/1J_ke1C2ssipYftTIDmzv-5OcJ7cfwcRA/view?usp=sharing)
    
 
